@@ -1,0 +1,2 @@
+This is an installation script for compiling openCV from source code in BeagleBone Environment as well as in BeagleBoard-XM Environment.
+It requires this script to be present in source code of opencv downloaded from https://github.com/Itseez/opencv. Also Manually download and move the extracted folder of ffmpeg(https://www.ffmpeg.org/download.html), x264(ftp://ftp.videolan.org/pub/videolan/x264/snapshots/) and v4l(http://www.linuxtv.org/downloads/v4l-utils/) in opencv source code folder. If required rename the folder as mentioned in script.
